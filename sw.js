@@ -1,5 +1,5 @@
 // Steady service worker: makes the app open instantly and work offline.
-const CACHE = 'steady-v3';
+const CACHE = 'steady-v4';
 const ASSETS = [
   './', 'index.html', 'native.js', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'maskable-512.png', 'apple-touch-icon.png',
